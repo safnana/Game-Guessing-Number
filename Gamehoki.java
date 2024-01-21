@@ -1,5 +1,5 @@
 
-package gamejudi;
+package gamehoki;
 
 import java.util.*;
 import java.lang.Math;
